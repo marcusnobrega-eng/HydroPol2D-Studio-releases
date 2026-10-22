@@ -11,7 +11,7 @@ Get the latest version under **[Releases](../../releases)**.
 | Computer | File |
 |---|---|
 | Mac with Apple Silicon (M1 or newer) | `HydroPol2D-Studio-macOS-arm64.zip` |
-| Windows (64-bit) | Coming soon |
+| Windows (64-bit) | `HydroPol2D-Studio-Windows-x64.zip` |
 
 You need about 1.5 GB of free disk space.
 

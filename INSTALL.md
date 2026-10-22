@@ -18,7 +18,7 @@ If you prefer Terminal, this command lets macOS open the app without step 4:
 xattr -dr com.apple.quarantine "/Applications/HydroPol2D Studio.app"
 ```
 
-## Windows (64-bit) — coming soon
+## Windows (64-bit)
 
 1. Unzip `HydroPol2D-Studio-Windows-x64.zip` into a folder you keep, for example `Documents\HydroPol2D Studio`.
 2. Double-click **HydroPol2D Studio.exe**.
